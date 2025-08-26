@@ -1,0 +1,43 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.11.9",
+  "startedAt":  "2025-08-26T13:30:38.090257Z",
+  "program":  "d:\\Projects\\kaggle_projects\\math-misunderstandings\\individual_problems.ipynb",
+  "codePath":  "individual_problems.ipynb",
+  "git":  {
+    "remote":  "https://github.com/minimartzz/math-misunderstandings.git",
+    "commit":  "bc5fbc5e94e691618be38e8913c994451edb06ae"
+  },
+  "email":  "martin.ho.zy97@gmail.com",
+  "root":  "d:\\Projects\\kaggle_projects\\math-misunderstandings",
+  "host":  "DESKTOP-NE5LCQR",
+  "executable":  "d:\\Software\\venv\\py311_env\\Scripts\\python.exe",
+  "codePathLocal":  "individual_problems.ipynb",
+  "cpu_count":  14,
+  "cpu_count_logical":  20,
+  "gpu":  "NVIDIA GeForce RTX 4070",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1024191361024",
+      "used":  "426828689408"
+    }
+  },
+  "memory":  {
+    "total":  "17011236864"
+  },
+  "cpu":  {
+    "count":  14,
+    "countLogical":  20
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4070",
+      "memoryTotal":  "12878610432",
+      "cudaCores":  5888,
+      "architecture":  "Ada",
+      "uuid":  "GPU-4a0fed9f-28e2-31eb-d66b-7e81401a6277"
+    }
+  ],
+  "cudaVersion":  "12.9"
+}
